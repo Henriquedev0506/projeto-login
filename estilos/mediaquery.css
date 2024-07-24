@@ -35,6 +35,12 @@ width: 70%;
 
 
 @media screen and (min-width: 992px)  {
+    body{
+background-image: linear-gradient(#5f2c82, #49a09d);
+
+
+
+    }
     section#login{
 width: 950px;
 
@@ -59,20 +65,27 @@ float: right;
 width: 80%;
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
+div#form > h1{
+font-size: 2em;
 
 }
+}
+div#form > p {
+    font-size: 1.2em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
