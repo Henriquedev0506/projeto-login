@@ -1,0 +1,80 @@
+@charset "UTF-8";
+
+
+
+@media screen and (min-width:768px) and (max-width: 992px) {
+    
+section#login{
+width: 80vw;
+
+
+}
+
+section#login > div#imagem{
+
+float: left;
+width: 30%;
+height: 100%;
+background: url(../imagens/pexels-scottwebb-139198.jpg);
+background-position: center bottom;
+background-size: cover;
+
+}
+section#login > div#form{
+float: right;
+width: 70%;
+}
+
+
+
+
+
+
+
+}
+
+
+@media screen and (min-width: 992px)  {
+    section#login{
+width: 950px;
+
+
+
+
+    }
+
+
+
+section#login > div#imagem{
+float: left;
+width: 50%;
+height: 100%;
+background: url(../imagens/pexels-scottwebb-139198.jpg);
+background-position: center bottom;
+background-size: cover;
+
+}
+section#login{
+float: right;
+width: 80%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
